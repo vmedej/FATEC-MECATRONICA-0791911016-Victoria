@@ -7,7 +7,7 @@ print(temperaturas)
 #Pede para o usuário digitar 5 temperaturas
 contador = 0
 while contador < 5:
-  temperatura = float(input("Informe um temperatura: "))
+  temperatura = float(input("Informe uma temperatura: "))
   #Adiciona temperatura no final
   temperaturas.append(temperatura)
   #Só para ver o comportamento da lista entre as interações
