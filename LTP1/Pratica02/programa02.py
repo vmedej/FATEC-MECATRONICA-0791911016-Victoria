@@ -10,5 +10,5 @@ senha = input("Informe sua senha: ")
 if senha == senha_secreta:
   print("Bem vindo")
 
-else:
+if senha != senha_secreta:
   print ("Senha incorreta")
