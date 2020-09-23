@@ -25,7 +25,7 @@ print("\nTemperatura  média:", media)
 #4
 temperaturas_acima = []
 for temperatura in temperaturas:
-  if temperatura > media:
+  if temperatura>media:
     temperaturas_acima.append(temperatura)
 print("\nTemperaturas acima da média:")
 print(temperaturas_acima)
