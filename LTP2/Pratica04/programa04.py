@@ -23,6 +23,7 @@ menor = min(temperaturas)
 print("Menor valor:", menor)
 
 #Calcula o valor médio, pela somatória e a contagem de elementos
+#Sum soma os valores da variável temperatura e Len conta quantos são esses valores
 media = sum(temperaturas)/len(temperaturas)
 print("Temperatura média:", media)
 #Controla o formato de exibição da media
