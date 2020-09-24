@@ -9,7 +9,7 @@ def pegarpreco(codigo):
   else:
     return -1
 
-produtos []
+produtos = []
 continuar = True
 while continuar:
   codigo = int(input("Código: "))
