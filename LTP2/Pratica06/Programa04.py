@@ -18,4 +18,4 @@ for item in lista_de_compras:
   print(item [0],"\t", item[1])
   total = total + item[1]
   
-print("Total:", total)
+print("\nValor total:", total)
