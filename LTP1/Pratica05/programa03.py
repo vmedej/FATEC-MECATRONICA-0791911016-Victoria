@@ -1,3 +1,7 @@
+#Enunciado: Escreva um programa que permita o usuário informar o seu nome e o seu poder de luta (ki).
+#Informe o quando este personagem está acima ou abaixo do poder de luta do Goku (8000).
+#O seu programa deve ficar sendo executado até que o nome Kuririn seja informado.
+
 continuar = True
 
 while continuar == True:
