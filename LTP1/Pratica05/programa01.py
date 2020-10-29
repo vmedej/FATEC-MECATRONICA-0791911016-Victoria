@@ -1,3 +1,7 @@
+#Enunciado: Construa um programa que pergunte ao usuário uma quantidade de valores que ele deseja informar.
+#Depois, leia todos esses valores, contando a quantidade deles que são pares e ímpares.
+#Depois de ler todos os valores, exiba a quantidade de números pares e impares que foram informados.
+
 quantidade = int(input("Informe a quantidade de valores: "))
 contador = 0
 quantidade_pares = 0
