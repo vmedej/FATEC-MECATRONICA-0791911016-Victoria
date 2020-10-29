@@ -12,9 +12,11 @@ continuar = True
 while continuar == True:
   valor = int(input("Informe o valor: "))
   #Adiciona o valor na somatoria
-  somatoria += valor #somatoria = somatoria + valor
+  #(somatoria += valor) é o mesmo que (somatoria = somatoria + valor)
+  somatoria += valor 
   #Adiciona mais um na contagem
-  contador += 1 #contador = contador + 1
+  #(contador += 1) é o mesmo que (contador = contador + 1)
+  contador += 1
   #Para verificar se é  primeiro número informado
   if contador == 1:
     maior = valor
