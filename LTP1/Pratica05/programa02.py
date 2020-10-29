@@ -1,3 +1,6 @@
+#Enunciado: Elabore um programa que possibilite o usuário digitar quantos valores ele desejar (depois de cada valor informado, perguntar se ele deseja continuar).
+#Exibir o maior valor, o menor valor e o valor médio entre todos os informados.
+
 #Guarda a somatoria dos valores informados
 somatoria = 0
 #Conta a quantidade de valores informados
